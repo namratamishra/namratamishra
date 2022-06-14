@@ -8,19 +8,17 @@ namratamishra/namratamishra is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 What I Know-
-                     Programming Languages
-            JavaScript
-            C/C++
-            Basic Python
-                      Frameworks and Tools
-              React
-               Nodejs
-              Git/Github
-                          Others
-               HTML5
-               CSS3
-               Typescript
-               JWT
-               jQuery
-               Bootstrap
-               REST APIs
+
+            Programming Languages -JavaScript, C/C++,Basic Python
+            Frameworks and Tools-  React,Nodejs,   Git/Github
+            Others- HTML5, CSS3, Typescript,JWT,    jQuery,  Bootstrap,   REST APIs
+           
+           
+               
+           
+             
+                        
+         
+              
+               
+              
